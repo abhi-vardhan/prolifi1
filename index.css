@@ -304,6 +304,7 @@ textarea{
         width: 200px;
         flex-wrap: 1;
         text-align: center;
+        padding: 10px;
     }
 
     .logomain{
