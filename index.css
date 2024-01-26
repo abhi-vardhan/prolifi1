@@ -323,4 +323,12 @@ textarea{
     text-align: center;
 }
 
+nav {
+    background-color: #fff;
+    padding: 5px 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 }
