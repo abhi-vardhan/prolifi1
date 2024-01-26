@@ -291,6 +291,8 @@ textarea{
         filter: none;
         font-size: 30px;
         font-weight: lighter;
+        margin: 20px;
+        padding: 20px;
     }
 
     .navstyle{
