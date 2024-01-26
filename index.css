@@ -300,7 +300,7 @@ textarea{
     }
     .card-content{
         color: #0f0e0e9e;
-        font-size: 16px;
+        font-size: 10px;
         width: 200px;
         flex-wrap: 1;
         text-align: center;
@@ -311,5 +311,16 @@ textarea{
         height: 60px;
         width: 70px;
     }
+
+    .images-card{
+        height: 100px;
+        width: 100px;
+    }
+    
+.card-heading{
+    color: rgb(151, 255, 54);
+    font-size: 15px;
+    text-align: center;
+}
 
 }
