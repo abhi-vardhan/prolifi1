@@ -318,6 +318,7 @@ textarea{
     }
 
     .images-card{
+        padding: 15px;
         height: 100px;
         width: 100px;
     }
