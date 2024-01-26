@@ -278,7 +278,7 @@ textarea{
 }
 
 .navstyle{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .logomain{
@@ -305,7 +305,7 @@ textarea{
     }
     .card-content{
         color: #0f0e0e9e;
-        font-size: 10px;
+        font-size: 15px;
         width: 200px;
         flex-wrap: 1;
         text-align: center;
@@ -324,7 +324,7 @@ textarea{
     
 .card-heading{
     color: rgb(151, 255, 54);
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -334,6 +334,14 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+
+.About-us-section-content{
+    font-family: "Roboto";
+    font-size:20px ;
+    font-weight: lighter;
+    color: #000000c9;    
 }
 
 }
