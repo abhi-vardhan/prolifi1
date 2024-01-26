@@ -298,6 +298,13 @@ textarea{
     .navstyle{
         font-size: 15px;
     }
+    .card-content{
+        color: #0f0e0e9e;
+        font-size: 16px;
+        width: 270px;
+        flex-wrap: 1;
+        text-align: center;
+    }
 
     .logomain{
         height: 60px;
